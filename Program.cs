@@ -86,7 +86,7 @@ namespace aula7
         }
         private static void atividade02()
         {
-            /*  double number;
+              double number;
 
               Console.WriteLine("DIGITE UM NUMERO!");
               number = double.Parse(Console.ReadLine());
@@ -102,11 +102,11 @@ namespace aula7
               }
               Console.ReadKey();
 
-              */
+              
         }
         void atividade01() 
         {
-            /*atividade 01
+            atividade 01
             double number;
 
             Console.WriteLine("DIGITE UM NUMERO!");
@@ -121,7 +121,7 @@ namespace aula7
                 Console.WriteLine("numero menor que 10... error");
 
             }
-            */
+            
 
 
         }
